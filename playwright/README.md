@@ -7,6 +7,9 @@ This folder contains beginner-friendly Playwright examples for using proxies in 
 ### 1. basic_proxy_setup.js
 Launches Chromium with a proxy server and opens a test URL to verify the proxy IP.
 
+### 2. proxy_with_timeout.js
+Uses a proxy with Playwright and includes basic timeout handling.
+
 ## Replace these values
 
 ```txt
