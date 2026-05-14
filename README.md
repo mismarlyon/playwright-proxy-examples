@@ -10,6 +10,10 @@ Beginner-friendly examples for using proxies with Playwright in automation and w
 - Handling timeouts and errors
 - Real-world scraping scenarios
 
-## Status
+## Current Examples
 
-🚧 This repo is a work in progress. Examples will be added soon.
+- Basic Playwright proxy setup
+- Proxy timeout handling
+- Chromium proxy authentication
+
+More examples will be added over time.
