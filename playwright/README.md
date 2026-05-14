@@ -10,6 +10,9 @@ Launches Chromium with a proxy server and opens a test URL to verify the proxy I
 ### 2. proxy_with_timeout.js
 Uses a proxy with Playwright and includes basic timeout handling.
 
+### 3. proxy_with_error_handling.js
+Uses try/catch/finally to handle proxy request failures and safely close the browser.
+
 ## Replace these values
 
 ```txt
